@@ -1,0 +1,18 @@
+{
+  "name": "gulp",
+  "version": "0.1.0",
+  "description": "A Gulp example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-minify-html": "~0.1.6"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Diogo Moretti",
+  "license": "MIT"
+}
